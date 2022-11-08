@@ -1,0 +1,11 @@
+svg{
+    background-color: transparent;
+    border: 1px solid #333;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0.5rem;
+}
+
+svg:hover{
+    background-color: #edede9;
+}

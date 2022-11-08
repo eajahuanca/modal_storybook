@@ -1,0 +1,1 @@
+{"v":3,"stories":{"open-button--open-modal":{"id":"open-button--open-modal","title":"Open button","name":"Open Modal","importPath":"./src/stories/Button.stories.tsx"},"modal-personalizado--template-modal":{"id":"modal-personalizado--template-modal","title":"Modal personalizado","name":"Template Modal","importPath":"./src/stories/Modal.stories.tsx"}}}
